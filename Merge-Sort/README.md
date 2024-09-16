@@ -33,6 +33,11 @@ Merge Sort é um algoritmo de ordenação que funciona de acordo com a estratég
 7. **Aplicação**:
    - O Merge Sort é preferido em cenários que exigem uma ordenação estável e onde o espaço extra não é um problema. É também útil quando os dados não cabem inteiramente na memória principal.
 
+![Exemplo do funcionamento do Quicksort](https://www.w3schools.com/dsa/img_mergesort_long.png)
+
+### Para mais informações:
+[Para aprender mais](https://www.w3schools.com/dsa/dsa_algo_mergesort.php)
+
 ### Comparação com Quicksort:
 - Merge Sort garante O(n log n) mesmo no pior caso, enquanto o Quicksort pode cair para O(n²) se mal implementado.
 - Merge Sort é melhor para dados em discos ou sistemas distribuídos, enquanto o Quicksort geralmente é mais rápido em memória.
