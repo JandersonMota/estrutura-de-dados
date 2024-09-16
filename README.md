@@ -10,6 +10,6 @@
   - [Veja o repositório do Quicksort](https://github.com/JandersonMota/estrutura-de-dados/tree/main/Quicksort)
 4. **Busca Binária**
   - Criado por John Mauchly em 1946.
-  - [Veja o repositório do Quicksort](https://github.com/JandersonMota/estrutura-de-dados/tree/main/Busca-Binaria)
+  - [Veja o repositório da Busca Binária](https://github.com/JandersonMota/estrutura-de-dados/tree/main/Busca-Binaria)
 5. **Insertion Sort**
-  - [Veja o repositório do Quicksort](https://github.com/JandersonMota/estrutura-de-dados/tree/main/Insertion-Sort)
+  - [Veja o repositório do Insertion Sort](https://github.com/JandersonMota/estrutura-de-dados/tree/main/Insertion-Sort)
