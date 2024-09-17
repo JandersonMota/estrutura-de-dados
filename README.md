@@ -13,3 +13,5 @@
   - [Veja o repositório da Busca Binária](https://github.com/JandersonMota/estrutura-de-dados/tree/main/Busca-Binaria)
 4. **Insertion Sort**
   - [Veja o repositório do Insertion Sort](https://github.com/JandersonMota/estrutura-de-dados/tree/main/Insertion-Sort)
+5. **Selection Sort**
+  - [Veja o repositório do Selection Sort](https://github.com/JandersonMota/estrutura-de-dados/tree/main/Selection-Sort)
