@@ -13,7 +13,7 @@
 A complexidade da cota inferior, ou lower bound, é uma característica de um problema e não de um algoritmo específico. Ela é uma cota inferior trivial, ou seja, um tempo mínimo que o problema exige, independentemente do algoritmo.
 
 1. **Estruturas de Dados Básicas (inicie por aqui para entender as bases)**
-  - Fila
+  - <a href="https://github.com/JandersonMota/estrutura-de-dados/tree/main/Fila">Fila</a>
   - Pilha
   - Lista Circular
 
