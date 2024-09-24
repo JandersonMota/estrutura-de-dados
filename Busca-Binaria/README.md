@@ -57,3 +57,6 @@ A **Busca Binária** (Binary Search) é um algoritmo de pesquisa que procura um 
 - **Logaritmos**: A compreensão básica de logaritmos é útil para entender a eficiência da busca binária.
 
 ![Exemplo do funcionamento do Busca Binária](https://media.geeksforgeeks.org/wp-content/uploads/20240506155201/binnary-search-.webp)
+
+### Navegar
+> <a href="https://github.com/JandersonMota/estrutura-de-dados">Início do repositório.</a>
