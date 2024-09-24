@@ -62,7 +62,7 @@ O **Heapsort** é um algoritmo de ordenação eficiente com complexidade garanti
 <img src="https://formulafunction.wordpress.com/wp-content/uploads/2017/07/heapsort.png?w=1182">
 
 ### Para mais informações:
-[Para aprender mais](https://www.instagram.com/reel/Cv9ubjuASER/?igsh=MTd5b2RpNWN6cDgzdg==)
+[Para aprender mais](https://formulafunction.wordpress.com/2017/07/18/heapsort/)
 
 ### Navegar
 > <a href="https://github.com/JandersonMota/estrutura-de-dados">Início do repositório.</a>
