@@ -1,6 +1,6 @@
 # Estrutura de Dados
 
-## Heapsort ou Árvore Binária
+## Heapsort
 
 O **Heapsort** é um algoritmo de ordenação baseado na estrutura de dados conhecida como **heap** (ou **árvore binária**). Ele é eficiente e possui um tempo de execução O(n log n), sendo amplamente utilizado em diversas aplicações devido à sua estabilidade e eficiência.
 
