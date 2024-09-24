@@ -41,3 +41,6 @@ O Selection Sort é um algoritmo simples de ordenação que percorre o array rep
     - Em relação ao Bubble Sort, o Selection Sort realiza menos trocas, o que pode ser uma vantagem dependendo do sistema.
 
 ![Exemplo do funcionamento do Busca Binária](https://www.w3resource.com/w3r_images/selection-short.png)
+
+### Navegar
+> <a href="https://github.com/JandersonMota/estrutura-de-dados">Início do repositório.</a>
