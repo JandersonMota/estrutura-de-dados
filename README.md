@@ -31,7 +31,7 @@ A complexidade da cota inferior, ou lower bound, é uma característica de um pr
     - Criado por John Von Neumann em 1945.
   - <a href="https://github.com/JandersonMota/estrutura-de-dados/tree/main/Quicksort">Quicksort</a>
     - Criado por C.A.R. Hoare em 1960.
-  - <a href="https://github.com/JandersonMota/estrutura-de-dados/blob/main/Heapsort">Heapsort ou Árvore Binária</a>
+  - <a href="https://github.com/JandersonMota/estrutura-de-dados/blob/main/Heapsort">Heapsort</a>
     - Criado por J. W. J. Williams em 1964 e aprimorado por Robert W. Floyd.
 
 ### 5. **Árvores e Estruturas de Dados Avançadas**
