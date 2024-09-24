@@ -41,4 +41,8 @@ Merge Sort é um algoritmo de ordenação que funciona de acordo com a estratég
 ![Exemplo do funcionamento do Quicksort](https://www.w3schools.com/dsa/img_mergesort_long.png)
 
 ### Para mais informações:
-[Para aprender mais](https://www.w3schools.com/dsa/dsa_algo_mergesort.php)
+[Leitura](https://www.w3schools.com/dsa/dsa_algo_mergesort.php)
+[Vídeo](https://www.instagram.com/reel/CvulfWogTfy/?igsh=cGs3N3VxaGlhdGJy)
+
+### Navegar
+> <a href="https://github.com/JandersonMota/estrutura-de-dados">Início do repositório.</a>
