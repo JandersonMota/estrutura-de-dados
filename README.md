@@ -109,3 +109,6 @@ Aqui está um gráfico para entender a velocidade de crescimento dos diferentes 
 - O(n!) → Fatorial
 
 À medida que subimos na escala, os algoritmos se tornam mais lentos para entradas maiores.
+
+## Para mais informações:
+[Para aprender mais](https://www.ime.usp.br/~pf/algoritmos/index.html)
