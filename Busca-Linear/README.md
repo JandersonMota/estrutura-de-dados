@@ -45,3 +45,6 @@ A busca binária é um algoritmo de busca mais eficiente, mas requer que a lista
 - A busca linear é menos eficiente que a busca binária para grandes conjuntos de dados.
 
 ![image](https://github.com/user-attachments/assets/0d8f25f3-217b-41ad-b7f3-f23e391001be)
+
+### Navegar
+> <a href="https://github.com/JandersonMota/estrutura-de-dados">Início do repositório.</a>
