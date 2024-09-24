@@ -46,3 +46,9 @@ O **Insertion Sort** é um algoritmo de ordenação simples e eficiente para peq
    - Em pequenas listas ou quase ordenadas, pode ser mais eficiente que o **Selection Sort** e o **Bubble Sort**.
 
 ![Exemplo do funcionamento do Insertion Sort](https://miro.medium.com/v2/resize:fit:720/format:webp/1*OwXl0acSOQWPTsikNPtdqw.png)
+
+### Para mais informações:
+[Vídeo](https://www.instagram.com/reel/CvSVfAaAUtr/?igsh=MTIweDFrOWI1aWF3ag==)
+
+### Navegar
+> <a href="https://github.com/JandersonMota/estrutura-de-dados">Início do repositório.</a>
